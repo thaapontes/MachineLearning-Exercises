@@ -3,7 +3,7 @@
 This list contain some exercises using algorithms of Machine Learning, in discipline "Artificial Intelligence":
 
 ## Statements
-1. Exercise 2
+### 1. Exercise 2
 
   -> Data in archive class02.csv
   
@@ -14,7 +14,7 @@ This list contain some exercises using algorithms of Machine Learning, in discip
   -> Final result: accuracy of test base
   
   
- 2. Exercise 3
+ ### 2. Exercise 3
  
   -> Data in archive reg01.csv
   
@@ -24,7 +24,7 @@ This list contain some exercises using algorithms of Machine Learning, in discip
   
   -> Final result:  RMSE(Root Mean Squared Error) for train and test base
   
- 3. Exercise 4
+ ### 3. Exercise 4
  
   -> Data in archive reg02.csv
   
